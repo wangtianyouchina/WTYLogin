@@ -37,8 +37,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		21BA2BEC378C89E8B413609A /* WTYLogin.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = WTYLogin.podspec; path = ../WTYLogin.podspec; sourceTree = "<group>"; };
-		2DDBE56B5FEDBDDB7364FEDB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		21BA2BEC378C89E8B413609A /* WTYLogin.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = WTYLogin.podspec; path = ../WTYLogin.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		2DDBE56B5FEDBDDB7364FEDB /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
 		5E12195952057A4C34AF42C0 /* Pods-WTYLogin_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYLogin_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-WTYLogin_Tests/Pods-WTYLogin_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		6003F58A195388D20070C39A /* WTYLogin_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WTYLogin_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6003F58D195388D20070C39A /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -63,7 +63,7 @@
 		873B8AEA1B1F5CCA007FD442 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		B3476756BA5E1DCC75697898 /* Pods-WTYLogin_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYLogin_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-WTYLogin_Example/Pods-WTYLogin_Example.release.xcconfig"; sourceTree = "<group>"; };
 		BA80DD118F0B543D4E7A0509 /* Pods_WTYLogin_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WTYLogin_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		DA4BC448C7568CF726C1890A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		DA4BC448C7568CF726C1890A /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		DAD581C3E450C976675CA980 /* Pods-WTYLogin_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYLogin_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WTYLogin_Tests/Pods-WTYLogin_Tests.debug.xcconfig"; sourceTree = "<group>"; };
 		E34E446674E047A3E9334A9C /* Pods-WTYLogin_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-WTYLogin_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-WTYLogin_Example/Pods-WTYLogin_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		F7796396104E1C1CCCA8AF3C /* Pods_WTYLogin_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_WTYLogin_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };

@@ -1,0 +1,6 @@
+framework module Pods_WTYLogin_Example {
+  umbrella header "Pods-WTYLogin_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

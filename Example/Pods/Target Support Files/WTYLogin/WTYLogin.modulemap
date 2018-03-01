@@ -1,0 +1,6 @@
+framework module WTYLogin {
+  umbrella header "WTYLogin-umbrella.h"
+
+  export *
+  module * { export * }
+}
