@@ -1,0 +1,14 @@
+use_frameworks!
+
+target 'WTYLogin_Example' do
+  pod 'WTYLogin', :path => '../'
+
+  target 'WTYLogin_Tests' do
+    inherit! :search_paths
+
+    pod 'Specta'
+    pod 'Expecta'
+    pod 'FBSnapshotTestCase'
+    pod 'Expecta+Snapshots'
+  end
+end
